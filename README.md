@@ -33,7 +33,12 @@
   ![image](https://github.com/shirinzarqaa/exercise-profiling/assets/110030938/e7ae8c68-59bf-45ab-a8ef-75f9db6ac336)
   ![image](https://github.com/shirinzarqaa/exercise-profiling/assets/110030938/56438b8a-4678-424c-a411-91e773e6ce9c)
 - **setelah optimisasi dengan Jmeter**
-  
+  ![image](https://github.com/shirinzarqaa/exercise-profiling/assets/110030938/f6da47b4-51ea-4fbe-8a1e-1bb88c71fd3e)
+  ![image](https://github.com/shirinzarqaa/exercise-profiling/assets/110030938/f4792667-38e2-482f-9fbe-83bdf8ae20e5)
+  ![image](https://github.com/shirinzarqaa/exercise-profiling/assets/110030938/8c605b62-65f9-4c8c-ade3-2d22520b64d7)
+
+berdasarkan screenshoot diatas proses optimasi sudah menghasilkan peningkatan yang signifikan dalam waktu eksekusi endpoint baik pada JMeter maupun profiling telah menunjukkan waktu yang significant berkurang.
+
 **Reflection**
 1. What is the difference between the approach of performance testing with JMeter and profiling with IntelliJ Profiler in the context of optimizing application performance?
   - JMeter digunakan untuk mengevaluasi kinerja aplikasi melalui simulasi beban kerja yang tinggi pada aplikasi.
